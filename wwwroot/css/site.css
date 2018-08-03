@@ -1,0 +1,31 @@
+﻿body {
+}
+
+div{
+    
+    background-color: #4cff00;    
+}
+
+form {
+    background-color: aqua;
+}
+
+input {
+
+    font-size: 50px;
+}
+
+menu li {
+    display:inline;
+
+}
+
+    menu li::after {
+    content :' |'
+    
+    }
+
+    menu li:last-of-type::after {
+    
+    content: '';
+    }

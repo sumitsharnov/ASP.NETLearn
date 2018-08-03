@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/site.css" rel="stylesheet" />
+    <title>Dutch Treat : @ViewBag.Title</title>
+</head>
+<body>
+    <menu>
+
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/app/contact">Contact</a></li>
+            <li><a href="/app/about">About</a></li>
+        </ul>
+    </menu>
+    <section>
+        <h1>@ViewBag.Title</h1>
+        @RenderBody()
+    </section>
+    <script src="~/index.js"></script>
+
+    <footer>Cpyright 2018</footer>
+</body>
+</html>
