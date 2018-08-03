@@ -57,7 +57,7 @@ using DutchTreat.Controllers;
             WriteLiteral(" \r\n    <div>\r\n        <h1>MUG</h1>\r\n        ");
             EndContext();
             BeginContext(85, 27, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "bbea7d24825643a2a23b7bb28b4f8b60", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ccbcf329d86d4163a0eec0d919eb5e96", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -75,7 +75,7 @@ using DutchTreat.Controllers;
             WriteLiteral("\r\n        <ul>\r\n            <li>Price : 100</li>\r\n            <li>Artist : Sumit</li>\r\n            <li>Product : Mug</li>\r\n        </ul>\r\n        <button id=\"button\">Buy</button>\r\n    </div>\r\n    <div>\r\n        ");
             EndContext();
             BeginContext(323, 160, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72be99f4cf9e44e997913e3bd5bdcace", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3998df063c144be4854fb5bcb8346b47", async() => {
                 BeginContext(329, 147, true);
                 WriteLiteral("\r\n            <label>Username:</label>\r\n            <input />\r\n            <label>Password</label>\r\n            <input type=\"password\" />\r\n        ");
                 EndContext();

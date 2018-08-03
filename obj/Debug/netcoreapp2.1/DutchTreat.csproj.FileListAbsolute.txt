@@ -26,3 +26,4 @@ C:\Users\sumitkumar02\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1
 C:\Users\sumitkumar02\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\About.g.cshtml.cs
 C:\Users\sumitkumar02\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\App\Contact.g.cshtml.cs
 C:\Users\sumitkumar02\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\sumitkumar02\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
